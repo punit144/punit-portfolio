@@ -8,9 +8,9 @@
   <br/>
 
   <p align="center">
-    <img src="https://i.imgur.com/MFa9W0J.png" />
+    <img src="https://i.imgur.com/7wg59rU.jpg" />
   <a href="https://techiepunitg.netlify.app">
-    <img src="https://i.imgur.com/iSbsOcN.png" />
+    <img src="https://i.imgur.com/dVEcTb0.jpg" />
   </a>
 </p>
 
