@@ -8,7 +8,7 @@
   <br/>
 
   <p align="center">
-    <img src="https://i.imgur.com/dVEcTb0.jpg" />
+    <img src="https://i.imgur.com/7wg59rU.jpg" />
   <a href="https://techiepunitg.netlify.app">
     <img src="https://i.imgur.com/dVEcTb0.jpg" />
   </a>
